@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">G7S21_DDIM_ACTIV_FABIAN</string>
+    <string name="titulo">Hola, espera un momento para ingresar........</string>
+    <string name="titulo2"> Llena los siguientes campos</string>
+    <string name="nombre">Nombre:</string>
+    <string name="edad">Edad:</string>
+    <string name="botton">Validar</string>
+    <string name="bottonmayor">regresar</string>
+    <string name="bottonmenor">regresar</string>
+
+</resources>
